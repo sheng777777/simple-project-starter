@@ -17,7 +17,7 @@ A minimal and clean starter template to kick off any project without wasting tim
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/your-username/simple-project-starter
+git clone https://github.com/sheng777777/simple-project-starter
 cd simple-project-starter
 npm install
 npm start
